@@ -1,2 +1,0 @@
-# HTML-Project1
-MGMT 382
