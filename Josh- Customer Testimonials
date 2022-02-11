@@ -1,40 +1,46 @@
-<html>
 
 <head bgcolor="tan">
-<h2> <font Color="Purple"><Font face="Copperplate"> Christie and Chris's Cooking Cabin Services </font Color="Purple"> </h2>
+<h2> <center> <font Color="Purple"> <Font face="Copperplate"> Christie and Chris's Cooking Cabin Services </font Color="Purple"> </h2> </center>
 <br>
 <br>
-<h4> <i> <font Color="Purple"><Font face="Copperplate"> Better Cooking Starts Here! </font Color="Purple"> </i> </h4>
+<h2> <center> <i> <font Color="Purple"> <Font face="Copperplate"> Better Cooking Starts Here! </font Color="Purple"> </i> </h2> </center>
 </head>
 
 
 
 <body bgcolor="SaddleBrown">
-<font color = "White"><font face="Times"> 
-<b> <h2> <u> Debbie M: </b> </h2> </u>
+<font face="Times"> <font color = "White"> 
+<b> <u> <font size="4"> Debbie M: </b> </u> </font>
 <br>
-<font size = "2"><font color = "Black"> The cooking cabin was able to provide me everything I need to prepare my family some delicious homemade meals! Christie and Chris was more than willing to help educate me on everything I needed, and even offered me a discount on their class where they taught me proper maintenance of my new appliances! I would highly recommend their services to anyone looking to expand their culinary capabilities! </font>
+<font size = "2"> <font color = "Black"> The cooking cabin was able to provide me everything I need to prepare my family some delicious homemade meals! Christie and Chris was more than willing to help educate me on everything I needed, and even offered me a discount on their class where they taught me proper maintenance of my new appliances! I would highly recommend their services to anyone looking to expand their culinary capabilities! </font> </font>
+<br>
+<br>
+<br>
+<font color = "White"> <font face="Times">
+<b> <u> <font size="4"> Mike G: </b></u>
+<br>
+<font size = "2"> <font color = "Black"> Christie and Chris are now my go-to for all cooking services and appliances! Friendly service and great prices! </font> </font>
+<br>
+<br>
+<br>
+<font color = "White"> <font face="Times">
+<b> <u> <font size="4"> Elizabeth Y: </b> </u>
+<br>
+<font size = "2"> <font color = "Black"> I'm a head chef at a local bar, and I have now replaced all equipment in my kitchen with those supplied by Chris and Christie! Easy to use and clean properly, and affordable too!  </font> </font>
 <br>
 <br>
 <br>
 <font color = "White"><font face="Times">
-<b> <h2> <u> Mike G: </b> </h2> </u>
-<br>
-<font size = "2"><font color = "Black"> Christie and Chris are now my go-to for all cooking services and appliances! Friendly service and great prices! </font>
-<br>
-<br>
-<br>
-<font color = "White"><font face="Times">
-<b> <h2> <u> Elizabeth Y: </b> </h2> </u>
-<br>
-<font size = "2"><font color = "Black"> I'm a head chef at a local bar, and I have now replaced all equipment in my kitchen with those supplied by Chris and Christie! Easy to use and clean properly, and affordable too!  </font>
-<br>
-<br>
-<br>
-<font color = "White"><font face="Times">
-<b> <h2> <u> Danny S: </b> </h2> </u>
-<font size = "2"><font color = "Black"> I've been coming to the cooking cabin for their cleaning services for years! They're amazing, and my equipment always shines like brand new when they're finished! </font>
+<b> <u> <font size="4"> Danny S: </b> </u>
+<font size = "2"> <font color = "Black"> I've been coming to the cooking cabin for their cleaning services for years! They're amazing, and my equipment always shines like brand new when they're finished! </font> </font>
 
+<b> <u> <font size="4"> Check us out on Social Media! @C&CcookingCabin </b> </u> </font>
+
+
+<br><center>
+<img src = "IG.jpg" height = "350" width = "350">
+<img src = "Twitter.JPEG" height = "350" width = "350">
+<img src = "Pinterest.jpg" height = "350" width = "350"></center>
 
 </body>
 
